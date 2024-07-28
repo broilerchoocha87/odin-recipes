@@ -1,0 +1,14 @@
+body {
+    background-color: rgba(252, 187, 161, 0.712);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.heading {
+    text-align:center;
+    background-color: lightpink;
+    color: lightcoral;
+}
+
+h3 {
+    color:lightcoral;
+}
