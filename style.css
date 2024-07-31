@@ -4,9 +4,31 @@ body {
 }
 
 .heading {
+    box-sizing: border-box;
     text-align:center;
+    font-size: 14px;
+    border: solid lightcoral;
+    height: 80px;
+    padding: 5px;
+    margin: 40px 100px;
     background-color: lightpink;
     color: lightcoral;
+}
+
+.recipe-list {
+    margin: auto 110px;
+}
+
+li {
+    margin:10px auto;
+}
+
+.recipe {
+    color:lightslategray;
+}
+
+ul {
+    color:lightcoral;
 }
 
 h3 {
